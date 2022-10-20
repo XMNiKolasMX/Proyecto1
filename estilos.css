@@ -1,0 +1,35 @@
+header{
+    background-color: rgb(194, 194, 207);
+    color: aquamarine;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+main{   
+    background-color: whitesmoke;
+    width: 90%;
+    margin: 0 auto;
+}
+p{
+        color: #EB101F;
+    text-align: justify;
+}
+h1 {
+    background-color: #4C101F;
+    text-align: center;
+}
+h2  {
+    background-color: #CF8768;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+.titulo{
+    background-color: #742909;
+    text-align: center;
+}
